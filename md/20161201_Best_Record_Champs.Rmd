@@ -343,10 +343,6 @@ knitr::kable(Best_Champs %>%
 ```
 
 
-
-
-
-
 ```{r, fig.height=6, fig.width=8}
 
 TeamsStd <- mutate(TeamsStd,
